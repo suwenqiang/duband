@@ -9,3 +9,5 @@ duband1.0
 联系方式：device-dev@baidu.com
 
 手把手教你做手环的教程链接：http://yuedu.baidu.com/ebook/6015724f0b4e767f5acfceb7.html
+
+just test push to the github!
